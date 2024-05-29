@@ -1,1 +1,1 @@
-The 3 tests I chose to do in the SuggestionEngineTest.java file were a test to make sure the program correctly handled non alphabetic characters, a test for suggestion accuracy of mispelled words and a stress test.
+The 3 tests I chose to do in the SuggestionEngineTest.java file were as follows: 1. A test to make sure the program correctly handled non alphabetic characters. 2. A test for suggestion accuracy of mispelled words. 3. A stress test.
